@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library path="mecanumbot_hardware_lib">
+  <class 
+    name="mecanumbot_hardware/MecanumBotSystemHardware" 
+    type="mecanumbot_hardware::MecanumBotSystemHardware" 
+    base_class_type="hardware_interface::SystemInterface">
+    <description>
+      Hardware interface for Mecanum bot with CANopen motor control
+    </description>
+  </class>
+</library>

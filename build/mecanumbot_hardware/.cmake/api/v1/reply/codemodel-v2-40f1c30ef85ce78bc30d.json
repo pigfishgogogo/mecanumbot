@@ -1,0 +1,106 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-2dc1fe0430b17c4254e5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "mecanumbot_hardware",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "can_interface_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-can_interface_lib-d2f1bd8de0e4f229f330.json",
+					"name" : "can_interface_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mecanumbot_hardware_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mecanumbot_hardware_lib-e4a4635e1ebd17528c1f.json",
+					"name" : "mecanumbot_hardware_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mecanumbot_hardware_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mecanumbot_hardware_uninstall-59e120b58643b0b16d58.json",
+					"name" : "mecanumbot_hardware_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mecanumbot_system::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mecanumbot_system-742733c65493d2526aad.json",
+					"name" : "mecanumbot_system",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motor_controller_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motor_controller_lib-f370c7e65c83c4db7989.json",
+					"name" : "motor_controller_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-46cc81ee1dd0da38326b.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/alpha/Desktop/mecanumbot/build/mecanumbot_hardware",
+		"source" : "/home/alpha/Desktop/mecanumbot/src/mecanumbot_hardware"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

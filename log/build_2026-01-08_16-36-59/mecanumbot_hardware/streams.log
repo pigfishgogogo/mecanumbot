@@ -1,0 +1,48 @@
+[0.034s] Invoking command in '/home/alpha/Desktop/mecanumbot/build/mecanumbot_hardware': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alpha/ws_moveit/install/moveit_configs_utils:/home/alpha/roarm_ws_em0/install/ros2web_widgets:/home/alpha/roarm_ws_em0/install/ros2web_example_py:/home/alpha/roarm_ws_em0/install/roarm_web_app:/home/alpha/roarm_ws_em0/install/ros2web_app:/home/alpha/roarm_ws_em0/install/ros2web:/home/alpha/roarm_ws_em0/install/roarm_driver:/home/alpha/roarm_ws_em0/install/launch_api:/opt/ros/humble:/home/alpha/Desktop/mecanumbot/install /usr/bin/cmake --build /home/alpha/Desktop/mecanumbot/build/mecanumbot_hardware -- -j12 -l12
+[0.171s] [35m[1mConsolidate compiler generated dependencies of target can_interface_lib[0m
+[0.208s] [ 25%] Built target can_interface_lib
+[0.243s] [35m[1mConsolidate compiler generated dependencies of target motor_controller_lib[0m
+[0.282s] [ 50%] Built target motor_controller_lib
+[0.322s] [35m[1mConsolidate compiler generated dependencies of target mecanumbot_hardware_lib[0m
+[0.375s] [ 75%] Built target mecanumbot_hardware_lib
+[0.416s] [35m[1mConsolidate compiler generated dependencies of target mecanumbot_system[0m
+[0.480s] [100%] Built target mecanumbot_system
+[0.514s] Invoked command in '/home/alpha/Desktop/mecanumbot/build/mecanumbot_hardware' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alpha/ws_moveit/install/moveit_configs_utils:/home/alpha/roarm_ws_em0/install/ros2web_widgets:/home/alpha/roarm_ws_em0/install/ros2web_example_py:/home/alpha/roarm_ws_em0/install/roarm_web_app:/home/alpha/roarm_ws_em0/install/ros2web_app:/home/alpha/roarm_ws_em0/install/ros2web:/home/alpha/roarm_ws_em0/install/roarm_driver:/home/alpha/roarm_ws_em0/install/launch_api:/opt/ros/humble:/home/alpha/Desktop/mecanumbot/install /usr/bin/cmake --build /home/alpha/Desktop/mecanumbot/build/mecanumbot_hardware -- -j12 -l12
+[0.549s] Invoking command in '/home/alpha/Desktop/mecanumbot/build/mecanumbot_hardware': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alpha/ws_moveit/install/moveit_configs_utils:/home/alpha/roarm_ws_em0/install/ros2web_widgets:/home/alpha/roarm_ws_em0/install/ros2web_example_py:/home/alpha/roarm_ws_em0/install/roarm_web_app:/home/alpha/roarm_ws_em0/install/ros2web_app:/home/alpha/roarm_ws_em0/install/ros2web:/home/alpha/roarm_ws_em0/install/roarm_driver:/home/alpha/roarm_ws_em0/install/launch_api:/opt/ros/humble:/home/alpha/Desktop/mecanumbot/install /usr/bin/cmake --install /home/alpha/Desktop/mecanumbot/build/mecanumbot_hardware
+[0.575s] -- Install configuration: ""
+[0.575s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/mecanumbot_hardware.xml
+[0.575s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/mecanumbot_hardware.xml
+[0.576s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/lib/libcan_interface_lib.so
+[0.576s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/lib/libmotor_controller_lib.so
+[0.576s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/lib/libmecanumbot_hardware_lib.so
+[0.577s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/lib/mecanumbot_hardware/mecanumbot_system
+[0.577s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/include/
+[0.577s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/include//mecanumbot_hardware
+[0.578s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/include//mecanumbot_hardware/can_interface.hpp
+[0.578s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/include//mecanumbot_hardware/motor_controller.hpp
+[0.578s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/include//mecanumbot_hardware/mecanumbot_hardware.hpp
+[0.579s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/launch
+[0.579s] -- Installing: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/launch/mecanumbot_control.launch.py
+[0.579s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/urdf
+[0.579s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/urdf/mecanumbot.urdf
+[0.580s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/config
+[0.580s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/config/mecanumbot_controllers.yaml
+[0.580s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/mecanumbot_hardware.xml
+[0.580s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/ament_index/resource_index/package_run_dependencies/mecanumbot_hardware
+[0.581s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/ament_index/resource_index/parent_prefix_path/mecanumbot_hardware
+[0.582s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/environment/ament_prefix_path.sh
+[0.582s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/environment/ament_prefix_path.dsv
+[0.583s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/environment/path.sh
+[0.584s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/environment/path.dsv
+[0.584s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/local_setup.bash
+[0.584s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/local_setup.sh
+[0.584s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/local_setup.zsh
+[0.584s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/local_setup.dsv
+[0.585s] -- Installing: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/package.dsv
+[0.585s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/ament_index/resource_index/packages/mecanumbot_hardware
+[0.585s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/mecanumbot_hardware
+[0.586s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/ament_index/resource_index/controller_interface__pluginlib__plugin/mecanumbot_hardware
+[0.586s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/cmake/mecanumbot_hardwareConfig.cmake
+[0.587s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/cmake/mecanumbot_hardwareConfig-version.cmake
+[0.588s] -- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/package.xml
+[0.588s] Invoked command in '/home/alpha/Desktop/mecanumbot/build/mecanumbot_hardware' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alpha/ws_moveit/install/moveit_configs_utils:/home/alpha/roarm_ws_em0/install/ros2web_widgets:/home/alpha/roarm_ws_em0/install/ros2web_example_py:/home/alpha/roarm_ws_em0/install/roarm_web_app:/home/alpha/roarm_ws_em0/install/ros2web_app:/home/alpha/roarm_ws_em0/install/ros2web:/home/alpha/roarm_ws_em0/install/roarm_driver:/home/alpha/roarm_ws_em0/install/launch_api:/opt/ros/humble:/home/alpha/Desktop/mecanumbot/install /usr/bin/cmake --install /home/alpha/Desktop/mecanumbot/build/mecanumbot_hardware

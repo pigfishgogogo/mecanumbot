@@ -1,0 +1,40 @@
+[ 25%] Built target can_interface_lib
+[ 50%] Built target motor_controller_lib
+[ 75%] Built target mecanumbot_hardware_lib
+[100%] Built target mecanumbot_system
+-- Install configuration: ""
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/mecanumbot_hardware.xml
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/mecanumbot_hardware.xml
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/lib/libcan_interface_lib.so
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/lib/libmotor_controller_lib.so
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/lib/libmecanumbot_hardware_lib.so
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/lib/mecanumbot_hardware/mecanumbot_system
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/include/
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/include//mecanumbot_hardware
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/include//mecanumbot_hardware/can_interface.hpp
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/include//mecanumbot_hardware/motor_controller.hpp
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/include//mecanumbot_hardware/mecanumbot_hardware.hpp
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/launch
+-- Installing: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/launch/mecanumbot_control.launch.py
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/urdf
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/urdf/mecanumbot.urdf
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/config
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/config/mecanumbot_controllers.yaml
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/mecanumbot_hardware.xml
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/ament_index/resource_index/package_run_dependencies/mecanumbot_hardware
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/ament_index/resource_index/parent_prefix_path/mecanumbot_hardware
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/environment/ament_prefix_path.sh
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/environment/path.sh
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/environment/path.dsv
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/local_setup.bash
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/local_setup.sh
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/local_setup.zsh
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/local_setup.dsv
+-- Installing: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/package.dsv
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/ament_index/resource_index/packages/mecanumbot_hardware
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/mecanumbot_hardware
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/ament_index/resource_index/controller_interface__pluginlib__plugin/mecanumbot_hardware
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/cmake/mecanumbot_hardwareConfig.cmake
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/cmake/mecanumbot_hardwareConfig-version.cmake
+-- Up-to-date: /home/alpha/Desktop/mecanumbot/install/mecanumbot_hardware/share/mecanumbot_hardware/package.xml
